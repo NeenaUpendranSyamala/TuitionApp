@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MyTestSuite]">
+  <test thread-count="5" name="mytest(failed)">
+    <classes>
+      <class name="com.tuitionApp.testCases.BaseClass">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.tuitionApp.testCases.BaseClass -->
+    </classes>
+  </test> <!-- mytest(failed) -->
+</suite> <!-- Failed suite [MyTestSuite] -->

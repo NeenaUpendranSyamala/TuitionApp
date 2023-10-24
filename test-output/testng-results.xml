@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3448" started-at="2023-07-06T06:46:24Z" finished-at="2023-07-06T06:46:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3448" started-at="2023-07-06T06:46:24Z" finished-at="2023-07-06T06:46:28Z">
+      <class name="com.tuitionApp.testCases.HomePageTestCases">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tuitionApp.testCases.HomePageTestCases@ef9296d]" name="beforeMethod" is-config="true" duration-ms="2911" started-at="2023-07-06T06:46:24Z" finished-at="2023-07-06T06:46:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validatPageHeader()[pri:0, instance:com.tuitionApp.testCases.HomePageTestCases@ef9296d]" name="validatPageHeader" duration-ms="338" started-at="2023-07-06T06:46:27Z" finished-at="2023-07-06T06:46:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatPageHeader -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.tuitionApp.testCases.HomePageTestCases@ef9296d]" name="afterMethod" is-config="true" duration-ms="176" started-at="2023-07-06T06:46:27Z" finished-at="2023-07-06T06:46:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.tuitionApp.testCases.HomePageTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

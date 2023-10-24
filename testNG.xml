@@ -1,0 +1,10 @@
+<suite name="MyTestSuite">
+	<test name="mytest">
+		<classes>
+
+			<class name ="com.tuitionApp.testCases.BaseClass"></class>
+			<class name ="com.tuitionApp.testCases.LoginTestCases"></class>
+			<class name ="com.tuitionApp.testCases.HomePageTestCases"></class>
+		</classes>
+	</test>
+</suite>   
